@@ -1,6 +1,6 @@
 ### Olá, eu sou a Rozana!
 
-- 🧪 Eu sou Química e atualmente tabalho com pesquisa e desenvolvimento na área de nanotecnologia, especificamente trabalho diretamente com o grafeno.
+- 🧪 Eu sou Química e Cientista de dados.
 - 👩🏽‍💻 Participei do Hiring Coders #2 !
 - 🌱 Aprendi conceitos básicos de HTML,CSS, GIT,JavaScript,Typescrispt, React e integração da API REST em um projeto.
 - 📊 Aprendi análise de dados com Python e tive a portunidade de aplicar no meu trabalho atual.
