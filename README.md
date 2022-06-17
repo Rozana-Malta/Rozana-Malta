@@ -1,9 +1,8 @@
-### Olá, eu sou a Rozana!
+### Olá, eu sou a Rozana Malta!
 
-- 🧪 Eu sou Química e Cientista de dados.
-- 👩🏽‍💻 Participei do Hiring Coders #2 !
-- 🌱 Aprendi conceitos básicos de HTML,CSS, GIT,JavaScript,Typescrispt, React e integração da API REST em um projeto.
-- 📊 Aprendi análise de dados com Python e tive a portunidade de aplicar no meu trabalho atual.
+- 👩🏽‍💻 Há 9 meses atuo como Cientista de Dados Júnior.
+- 🌱 Realizo o processamento e a análise dos dados utilizando a linguagem de programação Python. 
+- 📊 Utilizo modelos baseados em árvore para criar modelos de classificação, métodos estatístico clássicos, modelos de regressão linear, logística, realizo previsões através de modelos de séries temporais e também desenvolvo técnicas de clusterização. 
 - 📬 Contate-me no e-mail: romaltamartins@gmail.com
 
 <div>
