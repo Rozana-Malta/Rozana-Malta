@@ -1,7 +1,7 @@
 ### Olá, eu sou a Rozana Malta!
 - 🧪 Uma mulher cientista ... 
 - 👩🏾‍🔬 Química, por formação acadêmica.
-- 👩🏽‍💻 Há 9 meses atuando como Cientista de Dados Júnior em uma Startup no setor de mobilidade.
+- 👩🏽‍💻 Há 9 meses atuando como Cientista de Dados Júnior em uma Startup no setor de mobilidade com ênfase na locação de veículos.
 - 🌱 Realizando o processamento e a análise dos dados utilizando a linguagem de programação Python. 
 - 📊 Utilizando modelos baseados em árvore (criando modelos de classificação), métodos estatístico clássicos, modelos de regressão linear e logística, realizando previsões através de modelos de séries temporais e também desenvolvendo técnicas de clusterização. 
 
