@@ -1,11 +1,17 @@
 ### Olá, eu sou a Rozana Malta!
-- 🧪 Uma mulher cientista ... 
-- 👩🏾‍🔬 Química, por formação acadêmica.
-- 👩🏽‍💻 Há 1 ano e 8 meses atuando como Cientista de Dados Júnior em uma Startup no setor de mobilidade com ênfase na locação de veículos.
-- 🌱 Realizando o processamento e a análise dos dados utilizando a linguagem de programação Python. 
-- 📊 Utilizando modelos baseados em árvore (criando modelos de classificação), métodos estatístico clássicos, modelos de regressão linear e logística, realizando previsões através de modelos de séries temporais e também desenvolvendo técnicas de clusterização. 
+Uma mulher cientista apaixonada pelo mundo dos dados. Aqui está um pouco do que você encontrará no meu GitHub:
 
-- 📬 Gostou e quer saber mais sobre mim? Bora conversar, contate-me no e-mail: romaltamartins@gmail.com
+🧪 Química por formação acadêmica, mergulhei de cabeça no universo da Ciência de Dados há 1 ano e 8 meses. Atualmente, atuo como Cientista de Dados Júnior em uma Startup do setor de mobilidade, com foco na locação de veículos.
+
+👩🏽‍💻 Com habilidades sólidas em programação Python, utilizo essa linguagem para processar e analisar dados de forma eficiente. No meu GitHub, você encontrará projetos e notebooks detalhados que abrangem diversos aspectos da Ciência de Dados.
+
+📊 Tenho experiência na construção de modelos baseados em árvores, desenvolvimento de modelos de classificação, aplicação de métodos estatísticos clássicos, além de modelos de regressão linear e logística. Também sou versada em previsões por meio de modelos de séries temporais e na criação de técnicas de clusterização.
+
+🌱 Estou sempre em busca de aprendizado contínuo e de expandir meu conhecimento em novas áreas e tecnologias. Meu GitHub é um reflexo disso, com projetos diversificados que demonstram minha curiosidade intelectual e minha paixão por explorar e aplicar conceitos inovadores.
+
+📬 Se você gostou do que viu e deseja saber mais sobre mim ou se conectar para discutir oportunidades de colaboração, sinta-se à vontade para entrar em contato comigo pelo linkedin. 
+Estou ansiosa para trocar ideias e aprender com outros profissionais engajados no mundo dos dados. 
+Vamos iniciar uma conversa!
 
 <div>
   <a href="https://github.com/Rozana-Malta">
